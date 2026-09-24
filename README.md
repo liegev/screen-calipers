@@ -22,3 +22,7 @@ python3 screen_calipers.py
 
 Ctrl+C returns to the menu. On macOS, give the terminal Accessibility permission
 so it can read the pointer.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
